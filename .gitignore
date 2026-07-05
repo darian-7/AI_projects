@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Vendored clones (reference upstream instead)
+CLIP/
+
+# Environments
+.venv/
+venv/
